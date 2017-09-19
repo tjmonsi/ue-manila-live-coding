@@ -29,6 +29,10 @@ module.exports = {
       {
         from: path.resolve(__dirname, './functions/bower_components/webcomponentsjs/*.map'),
         to: 'bower_components/webcomponentsjs/[name].[ext]'
+      },
+      {
+        from: path.resolve(__dirname, './functions/bower_components/app-storage'),
+        to: 'bower_components/app-storage'
       }
     ])
   ],
