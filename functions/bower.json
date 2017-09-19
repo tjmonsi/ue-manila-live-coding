@@ -1,0 +1,21 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "main": "index.js",
+  "authors": [
+    "Toni-Jan Keith Monserrat <tonijanmonserrat@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tjmonsi/ue-manila-live-coding",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.2",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#v1.0.7"
+  }
+}
